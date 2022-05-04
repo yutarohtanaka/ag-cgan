@@ -1,4 +1,4 @@
-# CG-cGAN (Conditional Genomic - Generative Adversarial Network)
+# CG-GAN (Conditional Genomic - Generative Adversarial Network)
 
 Term Project for Machine Learning for Functional Genomics (COMS W4762, Professor David Knowles, Spring 2022) @ Columbia University. 
 Developer : Yutaro Tanaka (yutaro.tanaka [at] columbia.edu)
